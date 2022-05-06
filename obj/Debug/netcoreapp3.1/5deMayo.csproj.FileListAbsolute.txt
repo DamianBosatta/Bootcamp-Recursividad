@@ -1,0 +1,13 @@
+C:\Users\Win10\Desktop\Programs c#\5deMayo\bin\Debug\netcoreapp3.1\5deMayo.exe
+C:\Users\Win10\Desktop\Programs c#\5deMayo\bin\Debug\netcoreapp3.1\5deMayo.deps.json
+C:\Users\Win10\Desktop\Programs c#\5deMayo\bin\Debug\netcoreapp3.1\5deMayo.runtimeconfig.json
+C:\Users\Win10\Desktop\Programs c#\5deMayo\bin\Debug\netcoreapp3.1\5deMayo.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\Programs c#\5deMayo\bin\Debug\netcoreapp3.1\5deMayo.dll
+C:\Users\Win10\Desktop\Programs c#\5deMayo\bin\Debug\netcoreapp3.1\5deMayo.pdb
+C:\Users\Win10\Desktop\Programs c#\5deMayo\obj\Debug\netcoreapp3.1\5deMayo.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Programs c#\5deMayo\obj\Debug\netcoreapp3.1\5deMayo.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Programs c#\5deMayo\obj\Debug\netcoreapp3.1\5deMayo.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Programs c#\5deMayo\obj\Debug\netcoreapp3.1\5deMayo.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Programs c#\5deMayo\obj\Debug\netcoreapp3.1\5deMayo.dll
+C:\Users\Win10\Desktop\Programs c#\5deMayo\obj\Debug\netcoreapp3.1\5deMayo.pdb
+C:\Users\Win10\Desktop\Programs c#\5deMayo\obj\Debug\netcoreapp3.1\5deMayo.genruntimeconfig.cache
